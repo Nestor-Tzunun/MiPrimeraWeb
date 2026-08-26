@@ -1,0 +1,32 @@
+/*Estilo general de la pagina*/
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: lightgray;
+}
+/*Titulo principal*/
+h1 {
+    color:blue;
+}
+/*Estilo de los parrafos*/
+p {
+    color: green;
+    font-size: 25px;
+}
+.pasatiempo{
+    color: red;
+    font-size: 20px;
+}
+/*Estilo de las imagenes*/
+img {
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+}
+/*Aplicamos estilos a los elementos div*/
+.tarjeta {
+    background-color: rgb(119, 207, 185);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
